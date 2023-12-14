@@ -1,0 +1,15 @@
+#001524
+crna
+#ffffff
+bjela
+#FF7D00
+naradasta
+#78290F
+crvena
+
+#dd6e03
+drak orange
+#5b1f0b
+dark red
+
+font: "Poppins", sans-serif
